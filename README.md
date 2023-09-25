@@ -1,5 +1,5 @@
 # Forkify🍴
-This culinary website with recipes allows you to search for the desired dish by name or ingredients. It has many functions that allow you to save recipes, create your own, change the number of people for cooking dishes. [Website](https://tetiananosenko.github.io/forkify/)).
+This culinary website with recipes allows you to search for the desired dish by name or ingredients. It has many functions that allow you to save recipes, create your own, change the number of people for cooking dishes. [Website](https://tetiananosenko.github.io/forkify/).
 ## Project Description
 Functionality:
 
